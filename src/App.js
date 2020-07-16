@@ -7,7 +7,7 @@ Route,
 } from "react-router-dom";
 import Navbar from './components/Navbar';
 import Home from './contents/Home';
-
+import About from './contents/About';
 function App() {
 return (
 <Router>
@@ -15,6 +15,9 @@ return (
 <Navbar></Navbar>
 <Route exact path="/">
 <Home></Home>
+</Route>
+<Route path="/about">
+<About />
 </Route>
 </div>
 </Router>
