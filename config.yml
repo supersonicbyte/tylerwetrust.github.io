@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Mirza Ucanbarlic 
-    subtitle: "Software Engineer @ Klika \n \n
+    subtitle: "Software Engineer @ Microblink \n \n
     Enthusiastic about Swift, sound processing & AI."
     imageUrl: "profile.png" 
     imageWidth: 200
