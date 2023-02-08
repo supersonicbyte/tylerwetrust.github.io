@@ -1,0 +1,40 @@
+baseURL: https://tylerwetrust.github.io/swiftdecoding/
+languageCode: en-us
+title: Swift Decoding 
+theme: 'PaperMod'
+params:
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  profileMode:
+        enabled: true
+        title: "Mirza Ucanbarlic" # optional default will be site title
+        subtitle: "Software Engineer @ Microblink
+\n \nEnthusiastic about Swift, sound processing & AI."
+        imageUrl: "./profile.png" # optional
+        imageTitle: "profile picture" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Blog
+              url: "posts"
+            - name: My Apps
+              url: "apps"
+            - name: Tags
+              url: tags
+
+        socialIcons:
+        - name: "github"
+          url: "https://github.com/tylerwetrust"
+        - name: "twitter"
+          url: "https://twitter.com/mirzaucanbarlic"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/mirza-učanbarlić-765a0b188/"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
