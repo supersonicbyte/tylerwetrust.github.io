@@ -1,7 +1,7 @@
 ---
 title: "Apps"
-date: 2023-02-08T17:15:28+01:00
-draft: True 
+date: 2023-02-08T22:36:19+01:00
+draft: false
 ---
 <div style="display: flex">
 <a style="margin: 8px; text-decoration: none;" href="https://apps.apple.com/us/app/qibla-finder-bearing/id1669295958?uo=2">

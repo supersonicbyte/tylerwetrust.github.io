@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tylerwetrust.github.io/swiftdecoding/categories/</loc>
+    <loc>https://tylerwetrust.github.io/apps/</loc>
+    <lastmod>2023-02-08T22:36:19+01:00</lastmod>
   </url><url>
-    <loc>https://tylerwetrust.github.io/swiftdecoding/</loc>
+    <loc>https://tylerwetrust.github.io/categories/</loc>
+    <lastmod>2023-02-08T18:33:09+01:00</lastmod>
   </url><url>
-    <loc>https://tylerwetrust.github.io/swiftdecoding/tags/</loc>
+    <loc>https://tylerwetrust.github.io/posts/hello-wrold/</loc>
+    <lastmod>2023-02-08T18:33:09+01:00</lastmod>
+  </url><url>
+    <loc>https://tylerwetrust.github.io/posts/</loc>
+    <lastmod>2023-02-08T18:33:09+01:00</lastmod>
+  </url><url>
+    <loc>https://tylerwetrust.github.io/</loc>
+    <lastmod>2023-02-08T18:33:09+01:00</lastmod>
+  </url><url>
+    <loc>https://tylerwetrust.github.io/tags/</loc>
+    <lastmod>2023-02-08T18:33:09+01:00</lastmod>
+  </url><url>
+    <loc>https://tylerwetrust.github.io/tags/test/</loc>
+    <lastmod>2023-02-08T18:33:09+01:00</lastmod>
+  </url><url>
+    <loc>https://tylerwetrust.github.io/categories/test/</loc>
+    <lastmod>2023-02-08T18:33:09+01:00</lastmod>
   </url>
 </urlset>

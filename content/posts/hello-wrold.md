@@ -1,7 +1,7 @@
 ---
 title: "Hello Wrold"
 date: 2023-02-08T18:33:09+01:00
-draft: true
+draft: false
 tags: ["test"]
 categories: ["test"]
 ---
